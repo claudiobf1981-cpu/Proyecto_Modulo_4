@@ -1,0 +1,11 @@
+visitas,compras,monto_total,devoluciones,rating,categoria_cliente,canal
+10,1,100,0,4.5,Regular,Web
+15,2,200,0,4.7,Regular,Web
+7,1,120,1,4.0,Regular,App
+20,3,350,0,4.8,Premium,Web
+25,4,500,0,5.0,Premium,App
+18,3,420,1,4.6,Premium,App
+30,5,700,0,4.9,Premium,Web
+12,2,180,0,4.3,Regular,App
+22,4,520,0,4.8,Premium,Web
+17,3,390,1,4.6,Premium,App
