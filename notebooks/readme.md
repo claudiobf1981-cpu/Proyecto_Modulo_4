@@ -1,4 +1,4 @@
-# 📊 Proyecto Módulo 4 – Análisis Exploratorio de Datos (EDA)
+`# 📊 Proyecto Módulo 4 – Análisis Exploratorio de Datos (EDA)
 
 ## 📌 Descripción general
 Este proyecto corresponde al **Módulo 4 del Bootcamp de Ciencia de Datos** y tiene como objetivo aplicar un **Análisis Exploratorio de Datos (EDA)** completo sobre un conjunto de datos de clientes, utilizando herramientas de análisis estadístico y visualización en Python.
@@ -8,7 +8,7 @@ El trabajo abarca desde la generación y limpieza de datos hasta la interpretaci
 ---
 
 ## 🎯 Objetivos del proyecto
-- Comprender y aplicar el proceso completo de EDA
+- Comprender y aplicar el proceso completo de EDA``
 - Identificar patrones, relaciones y valores atípicos en los datos
 - Analizar correlaciones entre variables numéricas
 - Implementar modelos de regresión lineal simple y múltiple
