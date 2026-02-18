@@ -103,10 +103,10 @@ _ Proyecto subido a GitHub
 
 ##  Autor
 Proyecto desarrollado como parte del **Bootcamp de Ciencia de Datos**  
-Estudiante: *[Claudio Bienzobas]*  
+Estudiante: *Claudio Bienzobas*  
 Fecha: *Febrero 2026*
 
 
 
 ## 🔗 Enlace al repositorio
-👉 *(Pegar aquí el link de GitHub entregado en Moodle)*
+https://github.com/claudiobf1981-cpu/Proyecto_Modulo_4
