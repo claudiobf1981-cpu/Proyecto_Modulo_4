@@ -60,19 +60,16 @@ El trabajo abarca desde la generación y limpieza de datos hasta la interpretaci
 - Integración de visualizaciones en informes
 
 ##  Estructura del proyecto
-proyecto-eda
-├── data/
-│ └── clientes.csv
-├── notebooks/
-│ └── eda_proyecto.ipynb
-├── outputs/
-│ ├── *.png
-│ └── *.pdf
-├── docs/
-│ ├── Informe_Tecnico_EDA.pdf
-│ └── Documento_Ejecutivo_Insights_Recomendaciones.docx
-├── README.md
-└── requirements.txt
+📁 PROYECTO_MODULO_4
+│
+├── 📁 notebooks
+│   ├── 📁 data
+│   ├── 📁 documentos
+│   ├── 📁 figures
+│   ├── 📁 outputs
+│   └── 📓 eda_comercioya.ipynb
+│
+└── 📄 readme.md
 
 
 ##  Entregables
